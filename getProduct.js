@@ -76,7 +76,7 @@ function screenShotPHD(bahasa){
         Log('Screen Captured !!!!');
 }
 
-//====
+
 
 //=========================Main Global Function===========================================
 
